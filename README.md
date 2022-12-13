@@ -20,3 +20,12 @@ Examples of the projects
 
 
 ## [Idetification of the trash can using OpenCV libraries](https://github.com/Ennie99/Enesha_Portfolio/blob/main/docs/Can%20identification.py)
+
+# Based on the given image wrote a python code to identify contours of the can
+1. Converted BGR image into HSV
+2. Recognition program based on color, so if the specified tone is not recognizedб then paint it black
+3. Аrom the resulting image, we select the contour get our can
+
+![image5](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B99.png)
+
+![image6](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D1%81%D1%82%D0%B7.png)
