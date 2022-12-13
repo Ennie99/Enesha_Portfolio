@@ -18,6 +18,8 @@ Examples of the projects
 
 ![image4](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(5).png)
 
+## Using Denavit-Hartenberg parameters solved forward and inverse kinematics problem
+
 
 ## [Idetification of the trash can using OpenCV libraries](https://github.com/Ennie99/Enesha_Portfolio/blob/main/docs/Can%20identification.py)
 
@@ -29,3 +31,4 @@ Examples of the projects
 ![image5](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B99.png)
 
 ![image6](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B910.png)
+
