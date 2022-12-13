@@ -1,5 +1,6 @@
 # Enesha_Portfolio
 Examples of the projects
+
 [Exploratory data analysis of house prices: Project overview](https://github.com/Ennie99/Enesha_Portfolio/blob/main/docs/House%20pricing%20EDA%20(1).py)
 1. Analyzed and identified types of variables
 2. Examined the essential "SalePrice" variable
