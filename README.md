@@ -8,6 +8,8 @@ Examples of the projects
 4. Identified missing data and deleted not essential data
 5. Applied log transformation in order to get normal probability plot
 
+![image0](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(6).png)
+
 ![image](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(2).png)
 
 ![image2](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(4).png)
