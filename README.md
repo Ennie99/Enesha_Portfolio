@@ -19,6 +19,16 @@ Examples of the projects
 ![image4](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(5).png)
 
 ## Using Denavit-Hartenberg parameters solved forward and inverse kinematics problem
+   1. For each joint assigned cartesian coordinate system
+   2. Following the method’s rules(depending on type of link), formed articulation axes(repeated 3 times)
+   3. Assigned coordinate system for the grip 
+   4. Defined the 4 essential parameters for the given manipulator.(a,d,q,alfa)
+   5. Using these parameters formed 4 transformation matrices
+   6. Multiplied these matrices and solved forward kinematics problem
+   7. Using trigonometric formulas solved inverse kinematics problem 
+   
+![image11](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/image11.png)
+![image12](https://github.com/Ennie99/Enesha_Portfolio/blob/main/images/image12.png)
 
 
 ## [Idetification of the trash can using OpenCV libraries](https://github.com/Ennie99/Enesha_Portfolio/blob/main/docs/Can%20identification.py)
